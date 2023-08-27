@@ -1,0 +1,9 @@
+# Client
+node_modules
+yarn.lock
+
+# Server
+__pycache__
+poetry.lock
+databases
+config  
